@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed-abdelaziz-1a7526242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-abdelaziz-1a7526242" height="30" width="40" /></a>
-<a href="https://fb.com/mando325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mando325" height="30" width="40" /></a>
-<a href="https://instagram.com/abaziz325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abaziz325" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-abdelaziz-1a7526242" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-abdelaziz-1a7526242" height="30" width="40" /></a>
+<a href="https://fb.com/mando325" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mando325" height="30" width="40" /></a>
+<a href="https://instagram.com/33b3ziz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abaziz325" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
